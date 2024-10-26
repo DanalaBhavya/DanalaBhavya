@@ -49,4 +49,4 @@ I'm a Python Developer, Open Source Contributor, Competitive Programmer, and an 
 
 ## 📈 GitHub Activity
 
-[![Bhavya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanalaBhavya&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Bhavya's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanalaBhavya&theme=github)](https://github.com/DanalaBhavya/github-readme-activity-graph)
