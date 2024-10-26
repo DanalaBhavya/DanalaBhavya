@@ -3,8 +3,9 @@
 Welcome to my GitHub profile!
 
 ## About Me
+## About Me
 
-I'm a Python Developer, Open Source Contributor, Competitive Programmer, and an Online Trainer. Here’s a bit more about what I’m currently working on and my goals:
+I'm a **3rd-year B.E. student in AI and Machine Learning** at **Chaitanya Bharathi Institute of Technology**. I have a strong interest in exploring **Artificial Intelligence** and its applications in real-world problems. Here’s a bit more about what I’m currently working on and my goals:
 
 - 🔭 I’m currently working on **Exciting** projects.
 - 🌱 I’m currently learning **Artificial Intelligence** and enhancing my skills in **Machine Learning**.
@@ -17,8 +18,6 @@ I'm a Python Developer, Open Source Contributor, Competitive Programmer, and an 
 ## Skills and Languages
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
