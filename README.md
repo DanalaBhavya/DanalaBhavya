@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 ## About Me
 ## About Me
 
-I'm a **3rd-year B.E. student in AI and Machine Learning** at **Chaitanya Bharathi Institute of Technology**. I have a strong interest in exploring **Artificial Intelligence** and its applications in real-world problems. Here’s a bit more about what I’m currently working on and my goals:
+I'm a **4th-year B.E. student in AI and Machine Learning** at **Chaitanya Bharathi Institute of Technology**. I have a strong interest in exploring **Artificial Intelligence** and its applications in real-world problems. Here’s a bit more about what I’m currently working on and my goals:
 
 - 🔭 I’m currently working on **Exciting** projects.
 - 🌱 I’m currently learning **Artificial Intelligence** and enhancing my skills in **Machine Learning**.
